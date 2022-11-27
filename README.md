@@ -10,7 +10,7 @@ The only installation I needed to do was to sign up with GitHub, set-up my SSH k
 
 ## Usage
 
-This Study Guide will be used to help me remember what I need to know with coding.  I will use it to help me review my notes, as-needed.  My Study Guide will help me to determine what I need to study.    
+This Study Guide will be used to help me remember what I need to know and review what I learned during the prework.  I will use it to help me review my notes, as-needed.  My Study Guide will help me to determine what I need to study.    
 
 (TO BE COMPLETED LATER) open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows).  A console panel should open either below or to the side of the webpage in the browser.  There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
