@@ -1,6 +1,6 @@
 # ⭐ Prework Study Guide Website ⭐ 
 
-## Description
+## Description :bowtie:
 
 I was motivated to create this so I would have something to look back on as a guide.  This will help me remember the terms and I will be able to distinguish between HTML, CSS, Git, and JavaScript.  Git was new to me, but I learned a lot quickly!
 
