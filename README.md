@@ -1,4 +1,4 @@
-# Prework Study Guide Website 
+# ⭐ Prework Study Guide Website ⭐ 
 
 ## Description
 
@@ -22,7 +22,7 @@ There are no credits with this project.
 
 The License for this is in the Repo.
 
-## Features
+## ⭐ Features ⭐
 
 This Study Guide has helpful information that will help me through this course.
 
