@@ -1,4 +1,4 @@
-# Prework Study Guide Website
+# Prework Study Guide Website 
 
 ## Description
 
@@ -6,16 +6,17 @@ I was motivated to create this so I would have something to look back on as a gu
 
 ## Installation
 
-N/A
+The only installation I needed to do was to sign up with GitHub, set-up my SSH keys, and ensure that the terminal and my computer were working well.
 
 ## Usage
 
-This can be used to help study and prepare for coding!  To use this Study Guide, you can review the notes in each section.  For 
-on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows).  A console panel should open either below or to the side of the webpage in the browser.  There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
+This Study Guide will be used to help me remember what I need to know with coding.  I will use this Study Guide to help me review my notes at this point.  It will help me to determine what I need to study.    
+
+open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows).  A console panel should open either below or to the side of the webpage in the browser.  There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 ## Credits
 
-NA
+There are no credits with this project.
 
 ## License
 
@@ -23,5 +24,5 @@ The LICENSE is in the Repo.
 
 ## Features
 
-This study guide has helpful information for those interested in coding.
+This Study Guide has helpful information that will help me through this course.
 
