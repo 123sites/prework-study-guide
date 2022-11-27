@@ -20,7 +20,7 @@ There are no credits with this project.
 
 ## License
 
-The License is in the Repo.
+The License for this is in the Repo.
 
 ## Features
 
