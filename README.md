@@ -1,26 +1,26 @@
-# Prework Study Guide Webpage
+# ⭐ Prework Study Guide Website ⭐ 
 
-## Description
+## Description ✏️
 
-I was motivated to create this so I would have something to look back on as a guide.  This will help me remember the terms and be able to distinguish between HTML, CSS, Git, and JavaScript.  Git was new to me, but I learned a lot quickly!
+I was motivated to create this so I would have something to look back on as a guide.  This will help me remember the terms and I will be able to distinguish between HTML, CSS, Git, and JavaScript.  Git was new to me, but I learned a lot quickly!
 
-## Installation
+## Installation 🔑
 
-N/A
+The only installation I needed to do was to sign up with GitHub, set-up my SSH keys, and ensure that the terminal and my computer were working well.
 
-## Usage
+## Usage 🎯
 
-This can be used to help study and prepare for coding!  To use this Study Guide, you can review the notes in each section.  For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows).  A console panel should open either below or to the side of the webpage in the browser.  There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
+This Study Guide will be used to help me remember what I need to know and review what I learned during the prework.  I will use it to help me review my notes, as-needed.  My Study Guide will help me to determine what I need to study.    
 
-## Credits
+## Credits 👈
 
-NA
+There are no credits with this project.
 
-## License
+## License 📝
 
-The LICENSE is in the Repo.
+The License for this is in the Repo.
 
-## Features
+## ⭐ Features ⭐
 
-This study guide has helpful information for those interested in coding.
+This Study Guide has helpful information that will help me through this course. 💡
 
